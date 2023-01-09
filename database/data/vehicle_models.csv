@@ -1,0 +1,2304 @@
+id,name,description,vehicle_make_id
+4410,124 Spider,s,2409
+3857,500,s,2409
+4139,595,s,2409
+4293,695,s,2409
+3797,Grande Punto,s,2409
+4126,Punto,s,2409
+3980,Punto Evo,s,2409
+777,Cobra,n,323
+1645,Off 4WD/Serie 10,s,1024
+4823,U5,s,2799
+3006,300/400,s,416
+3372,500,s,416
+3634,A.721,s,416
+3635,A.741,s,416
+3846,City,s,416
+4176,Coupé,s,416
+3750,Crossline 1ª serie,s,416
+3848,Crossline 2ª serie,s,416
+4689,Crossline Evo,s,416
+4105,Crossover,s,416
+4387,D-Truck 400,s,416
+4826,E-Truck,s,416
+4103,GTO,s,416
+3526,Mega,n,416
+3991,Minauto,s,416
+3847,Roadline,s,416
+3632,Scouty,s,416
+2559,145,n,83
+2640,146,n,83
+3147,147,n,83
+3529,147 2ª serie,s,83
+2134,155,n,83
+2989,156 1ª serie,s,83
+3405,156 2ª serie,s,83
+3601,159,n,83
+1131,164,n,83
+3032,166,n,83
+3433,166 2ª serie,s,83
+37,33,n,83
+4224,4C,s,83
+39,75,n,83
+41,Alfa 6,n,83
+40,Alfa 90,n,83
+1449,Alfasud,n,83
+1491,Alfetta,n,83
+43,Alfetta GT/GTV,s,83
+36,Arna,n,83
+3631,Brera,n,83
+4426,Giulia (2016),s,83
+352,Giulietta,n,83
+3956,Giulietta (2010-21),s,83
+3446,GT,n,83
+2646,Gtv/Spider,s,83
+3854,MiTo,s,83
+44,Spider,n,83
+3683,Spider (2006-2011),s,83
+42,Sprint,n,83
+4475,Stelvio,s,83
+1553,SZ/RZ,s,83
+4869,Tonale,s,83
+4563,ATX,s,2771
+4286,XT,s,2771
+2994,B10         (95-04),s,160
+3034,B3             (98),s,160
+3818,B3          (08-11),s,160
+3084,B3          (99-05),s,160
+4045,B5          (09-11),s,160
+3638,B5        (2005-->),s,160
+3762,B6        (2003-->),s,160
+3636,D3          (05-11),s,160
+3414,Roadster,s,160
+3504,Roadster S,s,160
+4572,A110,n,2780
+1385,Serie S berlina,s,700
+3406,Lublin 3,s,2386
+158,Speedster,n,333
+3272,Atom,n,2345
+3530,Atom 2,n,2345
+4094,Atom 3,n,2345
+4415,Nomad,n,2345
+692,Serie 10,s,180
+693,Serie 240,s,180
+2035,Rocsta,n,1421
+4033,Cygnet,s,74
+45,DB S/V8,s,74
+4425,DB11,s,74
+2408,DB7,n,74
+3435,DB9,s,74
+4191,DB9 2ª serie,s,74
+3798,DBS (2007-2013),s,74
+4615,DBS (2019-->),s,74
+4744,DBX,s,74
+46,Lagonda,s,74
+3973,Rapide,s,74
+4192,Rapide S,s,74
+3212,V12,n,74
+3620,V8 Vantage,s,74
+4147,Vanquish,s,74
+4605,Vantage,s,74
+4493,Vantage GT8,s,74
+4046,Virage,s,74
+1550,Virage/V8/Vantage,s,74
+162,100/200/V8,s,161
+159,80/90/Cabrio,s,161
+4575,A1 2ª serie,s,161
+3968,A1/S1,s,161
+3095,A2,n,161
+2867,A3 1ª serie,s,161
+3388,A3 2ª serie,s,161
+4146,A3 3ª serie,s,161
+4686,A3 4ª serie,s,161
+4452,A3 Sportback e-tron,s,161
+2634,A4 1ª serie,s,161
+3154,A4 2ª serie,s,161
+3516,A4 3ª serie,s,161
+3791,A4 4ª serie,s,161
+4376,A4 5ª serie,s,161
+3897,A4 allroad 1ª serie,s,161
+4414,A4 allroad 2ª serie,s,161
+3766,A5 1ª serie,s,161
+4446,A5 2ª serie,s,161
+2623,A6 1ª serie,s,161
+2916,A6 2ª serie,s,161
+3468,A6 3ª serie,s,161
+4019,A6 4ª serie,s,161
+4560,A6 5ª serie,s,161
+3128,A6 allroad 1ª serie,s,161
+3670,A6 allroad 2ª serie,s,161
+4117,A6 allroad 3ª serie,s,161
+4637,A6 allroad 4ª serie,s,161
+3989,A7 1ª serie,s,161
+4547,A7 2ª serie,s,161
+2485,A8 1ª serie,s,161
+3353,A8 2ª serie,s,161
+3945,A8 3ª serie,s,161
+4532,A8 4ª serie,s,161
+161,Coupé/Quattro,s,161
+4609,e-tron,s,161
+4766,e-tron GT,s,161
+4444,Q2,s,161
+4053,Q3,s,161
+4595,Q3 2ª serie,s,161
+4787,Q4 e-tron,s,161
+3866,Q5 1ª serie,s,161
+4459,Q5 2ª serie,s,161
+3626,Q7 1ª serie,s,161
+4344,Q7 2ª serie,s,161
+4429,Q7 e-tron,s,161
+4569,Q8,s,161
+3728,R8 1ª serie,s,161
+4370,R8 2ª serie,s,161
+3031,TT 1ª serie,s,161
+3691,TT 2ª serie,s,161
+4294,TT 3ª serie,s,161
+169,Maestro,n,80
+168,Metro,n,80
+167,Mini,n,80
+170,Montego,n,80
+173,A112,n,35
+174,Y10,n,35
+330,A2 (A 220/A 275),s,515
+3334,Midi,n,923
+3173,Rascal,n,923
+3492,Asso,s,1504
+4409,B8,s,1504
+3326,Divane,s,1504
+3993,Jade 2,s,1504
+3661,Opale,s,1504
+3294,Sturdy,s,1504
+3065,VX,s,1504
+3047,Arnage,s,70
+3686,Azure,s,70
+4418,Bentayga,s,70
+559,Berlina,s,70
+3823,Brooklands,s,70
+3449,Continental 2ª s.,s,70
+4593,Continental 3ª s.,s,70
+178,Continental/Azure,s,70
+3320,Corniche,s,70
+4196,Flying Spur,s,70
+4007,Mulsanne,s,70
+3318,T/T2,s,70
+2298,4x4,n,49
+364,Cabrio/Supercabrio,s,49
+1624,Freeclimber,n,49
+365,X1/9 2ª serie,s,49
+1954,Passo,n,1362
+4306,Birò,s,2772
+4223,i3            (I01),s,85
+4801,i4,s,85
+4876,i7            (G70),s,85
+4254,i8        (I12/I15),s,85
+4792,iX            (i20),s,85
+4723,iX3           (G08),s,85
+3756,Serie 1       (E81),s,85
+3495,Serie 1       (E87),s,85
+4052,Serie 1       (F20),s,85
+4130,Serie 1       (F21),s,85
+4632,Serie 1       (F40),s,85
+3800,Serie 1 Cabrio(E88),s,85
+3783,Serie 1 Coupé (E82),s,85
+4275,Serie 2 A.T.  (F45),s,85
+4822,Serie 2 A.T.  (U06),s,85
+4337,Serie 2 Cabrio(F23),s,85
+4231,Serie 2 Coupé (F22),s,85
+4805,Serie 2 Coupé (G42),s,85
+4663,Serie 2 G.C.  (F44),s,85
+4351,Serie 2 G.T.  (F46),s,85
+2455,Serie 3       (E21),s,85
+2456,Serie 3       (E30),s,85
+675,Serie 3       (E36),s,85
+3007,Serie 3       (E46),s,85
+3687,Serie 3       (E92),s,85
+3751,Serie 3       (E93),s,85
+3553,Serie 3   (E90/E91),s,85
+4080,Serie 3   (F30/F31),s,85
+4588,Serie 3 (G20/21/80),s,85
+4178,Serie 3 G.T.  (F34),s,85
+4240,Serie 4 Cabrio(F33),s,85
+4745,Serie 4 Cabrio(G23),s,85
+4217,Serie 4 Coupé (F32),s,85
+4719,Serie 4 Coupé (G22),s,85
+4258,Serie 4 G.C.  (F36),s,85
+4800,Serie 4 G.C.  (G26),s,85
+2781,Serie 5       (E39),s,85
+3399,Serie 5   (E60/E61),s,85
+3944,Serie 5   (F10/F11),s,85
+4461,Serie 5   (G30/G31),s,85
+676,Serie 5 (E12/28/34),s,85
+3916,Serie 5 G.T.  (F07),s,85
+677,Serie 6       (E24),s,85
+3454,Serie 6   (E63/E64),s,85
+4017,Serie 6   (F12/F13),s,85
+4099,Serie 6 G.C.  (F06),s,85
+4509,Serie 6 G.T.  (G32),s,85
+2596,Serie 7       (E38),s,85
+678,Serie 7   (E23/E32),s,85
+3240,Serie 7   (E65/E66),s,85
+4366,Serie 7   (G11/G12),s,85
+3862,Serie 7 (F01/02/04),s,85
+1681,Serie 8       (E31),s,85
+4601,Serie 8   (G14/F91),s,85
+4571,Serie 8   (G15/F92),s,85
+4635,Serie 8 G.C. (G16),s,85
+3918,X1            (E84),s,85
+4367,X1            (F48),s,85
+4885,X1            (U11),s,85
+4537,X2            (F39),s,85
+3457,X3            (E83),s,85
+3992,X3            (F25),s,85
+4510,X3        (G01/F97),s,85
+4268,X4            (F26),s,85
+4553,X4        (G02/F98),s,85
+3099,X5            (E53),s,85
+3733,X5            (E70),s,85
+4214,X5        (F15/F85),s,85
+4565,X5        (G05/F95),s,85
+3819,X6        (E71/E72),s,85
+4315,X6        (F16/F86),s,85
+4638,X6        (G06/F96),s,85
+4592,X7            (G07),s,85
+1506,Z1,s,85
+2723,Z3,n,85
+3362,Z4            (E85),s,85
+3887,Z4            (E89),s,85
+4596,Z4            (G29),s,85
+3110,Z8,s,85
+3239,F100/3,s,2326
+2778,P8,s,2176
+3222,Brick,n,2313
+3219,Brio,n,2313
+3228,Extreme,n,2313
+3265,Job,n,2313
+3610,Job X2,n,2313
+3611,Job X4,n,2313
+3608,Job Xtréme,n,2313
+3217,NGR 35,n,2313
+3867,T-Rex (2008-2013),s,2313
+3218,TGR 35,n,2313
+3227,Trek,n,2313
+3933,BU100,s,2738
+3397,BU 100,n,2350
+3287,New Falcon B80,s,2350
+2109,EB 110,s,1522
+646,Park Avenue,s,81
+718,Allanté,s,76
+4162,ATS,n,76
+3662,BLS,s,76
+4468,CT6,n,76
+3392,CTS,s,76
+4235,CTS (2013--->),s,76
+719,Eldorado/Seville,s,76
+3577,Escalade,n,76
+4349,Escalade (2015--->),s,76
+4860,Escalade (2021--->,s,76
+725,Fleetwood,s,76
+720,Seville,n,76
+3543,SRX 1ª s. (2004-09),s,76
+4040,SRX 2ª s.(2011-'16),s,76
+3593,STS,s,76
+3489,XLR,s,76
+4707,XT4,s,76
+4464,XT5,n,76
+3066,Top 500,s,2273
+4012,Kerry,s,250
+4011,M10,s,250
+4060,M110,s,250
+4184,M12,s,250
+4271,M14,s,250
+4778,M20,s,250
+4467,Pick Up,s,250
+4183,Pick Up12,s,250
+4008,Sulky,s,250
+3637,Sulkycar,s,250
+1099,Sulkydea/Ydea,s,250
+3537,Seven,n,277
+6,Super Seven,n,277
+3436,Barooder,s,1539
+4296,CH26,s,1539
+4302,CH28,s,1539
+4303,CH32,s,1539
+4556,CH40,s,1539
+4631,CH46,s,1539
+3142,Media,s,1539
+3612,Speedino,s,1539
+3058,Stella,s,1539
+3845,Aveo 1ª serie,s,84
+4051,Aveo 2ª serie,s,84
+700,Camaro,n,84
+4062,Camaro (2011-2014),s,84
+4453,Camaro (2016-2021),s,84
+3682,Captiva,s,84
+245,Corvette C4,s,84
+2908,Corvette C5,s,84
+4832,Corvette C8 Stingr.,s,84
+4502,Corvette GrandSport,n,84
+4247,Corvette Stingray,n,84
+4400,Corvette Z06,s,84
+3901,Cruze,s,84
+3672,Epica,s,84
+3564,Evanda,n,84
+3811,HHR,s,84
+3548,Kalos,n,84
+3565,Lacetti,n,84
+4151,Malibu,n,84
+3549,Matiz 1ª serie,s,84
+3591,Matiz 2ª serie,s,84
+3551,Nubira 2ª serie,s,84
+4024,Orlando,s,84
+848,S-Blazer 1ª serie,s,84
+2508,S-Blazer 2ª serie,s,84
+4712,Silverado,n,84
+3947,Spark,s,84
+3546,Tacuma,n,84
+3124,Tahoe,s,84
+3244,TrailBlazer,n,84
+2876,Trans Sport,s,84
+4185,Trax,n,84
+4088,Volt,s,84
+3589,300 C,n,87
+3017,300 M,n,87
+3385,Crossfire,s,87
+3832,Gr.Voyager (08-10),s,87
+2418,Neon,n,87
+2480,New Yorker,s,87
+3115,PT Cruiser,s,87
+3162,Sebring 2ª serie,s,87
+3767,Sebring 3ª serie,s,87
+2489,Stratus,s,87
+2332,Viper,n,87
+2337,Vision,s,87
+1692,Voy./G.Voyager 1ª s,s,87
+2803,Voy./G.Voyager 2ª s,s,87
+3108,Voy./G.Voyager 3ª s,s,87
+121,2CV,n,91
+4771,Ami (2021),s,91
+438,AX,n,91
+124,Axel,s,91
+2902,Berlingo,n,91
+3837,Berlingo 2ª serie,s,91
+4567,Berlingo 3ª serie,s,91
+126,BX,n,91
+3765,C-Crosser,n,91
+4411,C-Elysée,n,91
+3984,C-Zero,s,91
+3571,C1,n,91
+4259,C1 2ª serie,s,91
+3367,C15,n,91
+3401,C2,s,91
+3241,C3 1ª serie,s,91
+3928,C3 2ª serie,s,91
+4455,C3 3ª serie,s,91
+4519,C3 Aircross,s,91
+3896,C3 Picasso,s,91
+3517,C4,n,91
+3864,C4 2ª serie,s,91
+4730,C4 3ª serie,s,91
+4121,C4 Aircross,n,91
+4276,C4 Cactus,n,91
+4205,C4 Picasso,n,91
+4557,C4 SpaceTourer,s,91
+3165,C5 1ª serie,s,91
+3519,C5 2ª serie,s,91
+3826,C5 3ª serie,s,91
+4587,C5 Aircross,s,91
+4819,C5 X,s,91
+3582,C6,n,91
+3312,C8,n,91
+127,CX,n,91
+4518,e-Berlingo,s,91
+4731,e-C4,s,91
+4830,e-Jumper,s,91
+4739,e-Jumpy,s,91
+4440,e-Mehari,n,91
+4742,e-SpaceTourer,s,91
+2538,Evasion,n,91
+4216,Grand C4 Picasso,n,91
+4558,Grand C4 SpaceTour.,s,91
+1516,GS/GSA,s,91
+3190,Jumper (1ª serie),s,91
+3313,Jumper (2ª serie),s,91
+3688,Jumper (3ª serie),s,91
+3186,Jumpy (1ª serie),s,91
+3461,Jumpy (2ª serie),s,91
+3739,Jumpy (3ª serie),s,91
+4432,Jumpy (4ª serie),s,91
+1526,LN/LNA,s,91
+440,Mehari,s,91
+3809,Nemo,s,91
+2819,Saxo,n,91
+4448,SpaceTourer,s,91
+125,Visa,n,91
+2378,Xantia,n,91
+1559,XM,n,91
+2972,Xsara,n,91
+2037,ZX,n,91
+2203,Spazia,s,1859
+3491,Electric Mistry,s,2309
+3286,Gipsy 500,s,2309
+3899,Giove,s,2737
+3898,Saturno,s,2737
+3233,Volpino,s,2320
+3237,Furia,n,2322
+3234,Ribot 1ª serie,s,2322
+3835,Ribot 2ª serie,s,2322
+3544,Corvette C6,s,2405
+4589,Ateca,s,2782
+4814,Born,s,2782
+4724,Formentor,s,2782
+4740,Leon,s,2782
+4140,Dokker,n,18
+3964,Duster 1ª serie,s,18
+4544,Duster 2ª serie,s,18
+4843,Jogger,s,18
+4125,Lodgy,n,18
+3528,Logan 1ª serie,s,18
+3856,Logan 2ª serie,s,18
+4220,Logan 3ª serie,s,18
+1493,Renault 12,s,18
+3839,Sandero 1ª serie,s,18
+4168,Sandero 2ª serie,s,18
+4753,Sandero 3ª serie,s,18
+4769,Spring,n,18
+2193,Espero,n,577
+3355,Evanda,n,577
+3354,Kalos,n,577
+3423,Lacetti,n,577
+2959,Lanos,n,577
+2993,Leganza,n,577
+3196,Lublin 3,s,577
+3018,Matiz,n,577
+2659,Nexia,n,577
+2962,Nubira 1ª serie,s,577
+3378,Nubira 2ª serie,s,577
+3119,Tacuma,s,577
+3194,Truck Plus,s,577
+3333,V 435,n,2363
+1212,Charade,s,104
+4049,Charade (2011-2013),s,104
+3458,Copen,s,104
+3416,Cuore (03-07),s,104
+3787,Cuore (07-11),s,104
+3048,Cuore (98-00),s,104
+1528,Feroza,s,104
+3735,Materia,n,104
+2880,Move,n,104
+541,Rocky,s,104
+3020,Sirion,n,104
+3547,Sirion 2ª serie,s,104
+2946,Terios,n,104
+3667,Terios 2ª serie,s,104
+3697,Trevis,n,104
+3155,YRV,n,104
+3645,Super Eight,n,106
+4562,Stradale,n,2779
+1713,Type 55,n,1058
+570,Deauville,s,114
+2562,Guarà,n,114
+571,Longchamp,s,114
+569,Pantera,s,114
+4889,Glory 500,s,2801
+4890,Glory 500e,s,2801
+4887,Glory 580,s,2801
+4888,Glory iX5,s,2801
+3820,Avenger,s,267
+3677,Caliber,s,267
+3850,Journey,s,267
+3782,Nitro,s,267
+2133,Viper,n,267
+3,Super Eight,s,193
+4215,City Cross,s,2717
+4304,City Van,s,2717
+4834,dr 4.0,s,2717
+4700,dr 5.0,s,2717
+4875,dr 6.0,s,2717
+4684,dr Evo,s,2717
+4483,dr Evo5,s,2717
+4716,dr F35,s,2717
+4350,dr Zero,s,2717
+3940,dr1,s,2717
+3967,dr2,s,2717
+3748,dr3,s,2717
+4527,dr4,s,2717
+3747,dr5,s,2717
+4528,dr6,s,2717
+3946,DS 3,s,2775
+4614,DS 3 Crossback,s,2775
+4034,DS 4,s,2775
+4379,DS 4 2ª serie,s,2775
+4076,DS 5,s,2775
+4534,DS 7 Crossback,s,2775
+4752,DS 9,s,2775
+4711,Free Duck,n,2792
+3646,Brukone,n,2311
+3210,Elettrone,n,2311
+3924,Elettrone Compact,n,2311
+3202,Gasolone,n,2311
+3923,Gasolone Comp.,n,2311
+3541,Maranello 4Cycle,s,2311
+3566,Metan One,n,2311
+2110,Symbol,s,1599
+1168,Evante,s,804
+4710,Electric,s,2791
+4802,Evo 3,s,2791
+4762,Evo 3 Electric,s,2791
+4713,Evo 4,s,2791
+4714,Evo 5,s,2791
+4715,Evo 6,s,2791
+3102,Jàster,s,2297
+450,208/308/328/GTO,s,13
+1687,348,n,13
+3068,360,n,13
+457,412,s,13
+2328,456,s,13
+3943,458,s,13
+4365,488,s,13
+2709,512 BB,s,13
+2710,512i BB,s,13
+2871,550,s,13
+3293,575M,s,13
+3666,599,s,13
+3440,612,s,13
+4515,812,s,13
+3884,California,s,13
+3409,Challenge Stradale,s,13
+2704,Dino 208 GT/4,s,13
+2691,Dino 308 GT/4,s,13
+3394,Enzo,s,13
+4138,F12,s,13
+2595,F355,n,13
+892,F40,s,13
+3536,F430,s,13
+2663,F50,n,13
+4633,F8,s,13
+4041,FF,s,13
+4482,GTC4Lusso,s,13
+4241,LaFerrari,s,13
+451,Mondial,n,13
+4530,Portofino,s,13
+4670,Roma,s,13
+4674,SF90 Stradale,s,13
+453,Testarossa/512 TR,s,13
+4405,124 spider,s,8
+66,126,n,8
+68,127,n,8
+1499,131,n,8
+2034,132,n,8
+2030,147/127 Rustica,s,8
+3781,500 (2007-2016),s,8
+4360,500 (2015-->),s,8
+4721,500 (2020-->),s,8
+4142,500L,s,8
+4210,500L Living,s,8
+4212,500L Pro,s,8
+4507,500L Wagon,s,8
+4320,500X,s,8
+3605,600,n,8
+1569,900,n,8
+431,Argenta,n,8
+2662,barchetta,n,8
+3754,Bravo 2ª serie,s,8
+2753,Bravo/Brava,s,8
+483,Campagnola,n,8
+2111,Cinquecento,n,8
+2461,Coupé,n,8
+72,Croma (1985-1997),n,8
+3588,Croma (2005-2011),s,8
+3152,Doblò 1ª serie,n,8
+3616,Doblò 2ª serie,s,8
+3938,Doblò 3ª serie,s,8
+4886,Doblò 4ª serie,s,8
+3366,Ducato (1ª serie),s,8
+2201,Ducato (2ª serie),s,8
+3308,Ducato (3ª serie),s,8
+3680,Ducato (4ª serie),s,8
+482,Duna,n,8
+4891,E-Doblò,s,8
+4746,E-Ducato,s,8
+4871,E-Ulysse,s,8
+3376,Fiorino 1ª serie,n,8
+3803,Fiorino 2ª serie,s,8
+4043,Freemont,s,8
+4427,Fullback,n,8
+3618,Grande Punto,s,8
+3439,Idea,n,8
+2863,Marea,n,8
+3208,Marengo (Marea),s,8
+3206,Marengo (Tempra),s,8
+3043,Multipla,n,8
+3497,Multipla 2ª serie,s,8
+2807,Palio,n,8
+2,Panda 1ª serie,n,8
+3415,Panda 2ª serie,s,8
+4093,Panda 3ª serie,s,8
+4313,Panda Cross,s,8
+2404,Punto 1ª serie,n,8
+3077,Punto 2ª serie,s,8
+3398,Punto 3ª serie,s,8
+4091,Punto 4ª serie,s,8
+3920,Punto Evo,s,8
+3880,QUBO,s,8
+70,Regata,n,8
+69,Ritmo,s,8
+3213,Scudo (1996-2003),s,8
+3460,Scudo (2003-2006),s,8
+3740,Scudo (2006-2016),s,8
+4847,Scudo (2021-->),s,8
+4848,Scudo BEV (2021-->),s,8
+3650,Sedici,n,8
+3011,Seicento,n,8
+3226,Stilo,n,8
+3076,Strada,n,8
+3209,Talento,n,8
+4439,Talento (2016-->),s,8
+1766,Tempra,n,8
+1394,Tipo,n,8
+4390,Tipo (2015-->),s,8
+2525,Ulysse,n,8
+3338,Ulysse 2ª serie,s,8
+1,Uno,n,8
+3430,X1/9 2ª serie,s,8
+4050,Karma,s,2752
+3332,Newark,n,2367
+4133,B-Max,s,39
+3763,C-Max 1ª serie,s,39
+4002,C-Max 2ª serie,s,39
+4068,C-Max 2ª serie Bs,s,39
+3002,Cougar,n,39
+3200,Courier (Fiesta IV),s,39
+3198,Courier(Fiesta III),s,39
+4845,E-Transit,s,39
+4249,EcoSport,n,39
+4406,Edge,n,39
+60,Escort,n,39
+2414,Escort/Orion,s,39
+4695,Explorer,n,39
+2459,Fiesta 1ª/2ª serie,s,39
+480,Fiesta 3ª serie,s,39
+2780,Fiesta 4ª serie,s,39
+3221,Fiesta 5ª serie,s,39
+3865,Fiesta 6ª serie,s,39
+4069,Fiesta 6ª serie Bs,s,39
+4500,Fiesta 7ª serie,s,39
+3036,Focus 1ª serie,s,39
+3420,Focus 2/Focus C-Max,s,39
+3807,Focus 2ª serie,s,39
+4029,Focus 3ª serie,s,39
+4070,Focus 3ª serie Bs,s,39
+4559,Focus 4ª serie,s,39
+3352,Fusion,s,39
+4072,Fusion Business,s,39
+2648,Galaxy 1ª serie,s,39
+3689,Galaxy 2ª serie,s,39
+4071,Galaxy 2ª serie Bs,s,39
+4364,Galaxy 3ª serie,s,39
+2888,Ka 1ª serie,s,39
+3879,Ka 2ª serie,s,39
+4074,Ka 2ª serie Bs,s,39
+4437,Ka+,n,39
+3838,Kuga 1ª serie,s,39
+4077,Kuga 1ª serie Bs,s,39
+4175,Kuga 2ª serie,s,39
+4653,Kuga 3ª serie,s,39
+2890,Mondeo '96,s,39
+2351,Mondeo 1ª serie,s,39
+3145,Mondeo 2ª serie,s,39
+3771,Mondeo 3ª serie,s,39
+4073,Mondeo 3ª serie Bs,s,39
+4318,Mondeo 4ª serie,s,39
+4334,Mustang,s,39
+4699,Mustang Mach-E,s,39
+481,Orion,n,39
+2913,Puma,s,39
+4652,Puma (2019),s,39
+3214,Ranger,n,39
+3922,Ranger 2ª serie,s,39
+4092,Ranger 3ª serie,s,39
+4865,Ranger 4ª serie,s,39
+3676,S-Max,s,39
+4352,S-Max 2ª serie,s,39
+4075,S-Max Bs,s,39
+484,Scorpio,n,39
+442,Sierra,n,39
+2237,Taunus (1970-1982),s,39
+4229,Tourneo Connect 2ªs,s,39
+4863,Tourneo Connect 3ª,s,39
+4280,Tourneo Courier,s,39
+4150,Tourneo Custom,s,39
+3350,Trans/Tour Connect,s,39
+3174,Trans/Tour/Bus 2000,s,39
+3696,Trans/Tour/Bus 2006,s,39
+4246,Transit 2014,s,39
+4233,Transit Connect 2ªs,s,39
+4270,Transit Courier,s,39
+4156,Transit Custom,s,39
+3215,Transit/A0407 91-94,s,39
+3359,Transit/Tourneo,s,39
+3340,F 40 C,n,2369
+885,Polonez,n,128
+3951,GA200,s,2740
+4423,GA500,s,2740
+3952,GX6,s,2740
+4174,Way,s,2740
+3562,Gazelle,n,2705
+3595,e2,s,2303
+3596,e4,s,2303
+3630,eL,s,2303
+3629,eS,s,2303
+3137,Four,s,2303
+3136,Two,s,2303
+3166,Serie G,s,196
+3812,Ginko,s,2718
+3950,Gladiator,s,2718
+4477,Gladiator Top,s,2718
+4248,Gladiator VXL,s,2718
+4694,Glory,s,2718
+3663,Ginko,s,2710
+4708,G2,s,2790
+4709,G4,s,2790
+4703,G5,s,2790
+4874,G6,s,2790
+4261,H6,s,2715
+3732,Hover,s,2715
+3985,Hover 5,s,2715
+3878,Steed,s,2715
+4514,Steed,s,2715
+4824,Steed,s,2715
+4188,Voleex C20R,s,2715
+3067,Amica,s,2275
+3116,EKE,s,2275
+4015,Sonique,s,2275
+3557,943,s,2706
+3556,945,s,2706
+3558,963,s,2706
+3559,967,s,2706
+4641,H2,s,2786
+4239,GT2,s,2768
+572,Accord 3ª-4ª serie,s,147
+2830,Accord 5ª serie '96,s,147
+2331,Accord 5ª serie SW,s,147
+3037,Accord 6ª serie,s,147
+3356,Accord 7ª serie,s,147
+3842,Accord 8ª serie,s,147
+4476,Civic 10ª serie,s,147
+573,Civic 3ª-4ª-5ª ser.,s,147
+2787,Civic 6ª serie,s,147
+3160,Civic 7ª serie,s,147
+3640,Civic 8ª serie,s,147
+4106,Civic 9ª serie,s,147
+1515,Concerto,n,147
+2849,CR-V 1ª serie 97-02,s,147
+3311,CR-V 2ª serie 02-07,s,147
+3742,CR-V 3ª serie 07-10,s,147
+3954,CR-V 3ª serie 10-12,s,147
+4155,CR-V 4ª serie 12-18,s,147
+4590,CR-V 5ª serie 18-->,s,147
+3974,CR-Z,s,147
+3523,FR-V,n,147
+4685,Honda e,s,147
+3053,HR-V,n,147
+4369,HR-V 2ª serie,s,147
+4817,HR-V 3ª serie,s,147
+3101,Insight,n,147
+944,Integra,n,147
+3246,Jazz 1ª serie 01-08,s,147
+3871,Jazz 2ª serie 08-15,s,147
+4368,Jazz 3ª serie 15-20,s,147
+4702,Jazz 4ª serie '20->,s,147
+624,Legend 1ª serie,s,147
+3701,Legend 2ª serie,s,147
+3052,Logo,n,147
+1628,NSX 1ª serie,n,147
+4435,NSX 2ª serie,s,147
+931,Prelude 1ª serie,s,147
+2906,Prelude 2ª serie,s,147
+3063,S2000,n,147
+2652,Shuttle,s,147
+3172,Stream,n,147
+3498,H1,s,2398
+3421,H2,n,2398
+3604,H3,s,2398
+2629,Accent 1ª serie,s,122
+3089,Accent 2ª serie,s,122
+3669,Accent 3ª serie,s,122
+3003,Atos,n,122
+4797,Bayon,s,122
+2840,Coupe 1ª serie,s,122
+3290,Coupe 2ª serie,s,122
+3139,Elantra 3ª serie,s,122
+2997,Galloper,n,122
+4021,Genesis 1ª serie,s,122
+4291,Genesis 2ª serie,s,122
+3325,Getz,n,122
+3021,H-1,s,122
+3815,H-1 (2ª serie),s,122
+3236,H-100,n,122
+4375,H350,s,122
+3830,i10 1ª serie,s,122
+4227,i10 2ª serie,s,122
+4678,i10 3ª serie,s,122
+3891,i20,s,122
+4325,i20 2ª serie,s,122
+4743,i20 3ª serie,s,122
+3784,i30,s,122
+4119,i30 2ª serie,s,122
+4480,i30 3ª serie,s,122
+4054,i40,s,122
+4451,Ioniq,n,122
+4780,Ioniq 5,s,122
+4009,ix20,s,122
+3958,ix35,s,122
+4533,Kona,s,122
+2011,Lantra/Elantra,s,122
+3203,Matrix,n,122
+4812,Nexo,s,122
+1260,Pony/Scoupe,s,122
+3158,Santa Fe 1ª serie,s,122
+3664,Santa Fe 2ªs. 06-10,s,122
+4013,Santa Fe 2ªs. 10-12,s,122
+4154,Santa Fe 3ªs. 12-18,s,122
+4574,Santa Fe 4ª serie,s,122
+3054,Santamo,n,122
+2889,Sonica 2ª serie,s,122
+3022,Sonica 3ª serie,s,122
+3674,Sonica 4ª serie,s,122
+1547,Sonica/Sonata,s,122
+554,Stellar,n,122
+3271,Terracan,n,122
+3120,Trajet,n,122
+3502,Tucson 1ª serie,s,122
+4374,Tucson 2ª serie,s,122
+4751,Tucson 3ª serie,s,122
+4058,Veloster,s,122
+3188,XG30,n,122
+4265,Ecomile,s,2769
+4266,Jolly 2000,s,2769
+3892,Volpino,s,2736
+1618,Iato,s,776
+4882,Grenadier,s,2800
+3873,EX,s,1970
+3874,FX,s,1970
+3876,G,s,1970
+3986,M,s,1970
+4383,Q30,n,1970
+4198,Q50,n,1970
+4226,Q60 (2013-2016),s,1970
+4457,Q60 (2016-2019),s,1970
+4245,Q70,n,1970
+4422,QX30,n,1970
+4228,QX50,n,1970
+4225,QX70,n,1970
+473,990,n,120
+2086,Elba,n,120
+1977,Koral,n,120
+2597,Mille,n,120
+502,Mini,n,120
+2015,Small 500/990,s,120
+3525,Lublin 3,s,2407
+3078,Isigò,s,2285
+3211,Campo/Pick-up,s,146
+3429,D-Max,n,146
+4145,D-Max 2ª Serie,s,146
+4726,D-Max N60/N57,s,146
+4523,M21 (2017--->),s,146
+3877,N-Evolution,s,146
+3216,NPR/NKR 1a serie,s,146
+919,Piazza,s,146
+652,Trooper,s,146
+3731,Domino,s,2709
+3651,T2,s,2709
+3652,T3,s,2709
+3870,Campagnola (2008),s,2318
+3360,Daily (1992-1996),s,2318
+3361,Daily (1996-2001),s,2318
+3276,Daily (1999-2007),s,2318
+3685,Daily (2006-2009),s,2318
+4061,Daily (2011-2014),s,2318
+4273,Daily (2014-->),s,2318
+3921,Ecodaily,n,2318
+3863,Massif (2008-2011),s,2318
+4513,E-Pace       (X540),s,110
+4381,F-Pace       (X761),s,110
+4181,F-Type       (X152),s,110
+4548,I-Pace       (X590),s,110
+3482,S-Type       (X204),s,110
+3736,S-Type       (X208),s,110
+3055,S-Type  (X200-X202),s,110
+3600,S-Type  (X206-X207),s,110
+3167,X-Type X400/6/7/8/9,s,110
+4316,XE           (X760),s,110
+3792,XF 1ª serie  (X250),s,110
+4342,XF 2ª serie  (X260),s,110
+3937,XJ           (X351),s,110
+3369,XJ (X350-X358-X359),s,110
+2992,XJ-Sovereign-Daiml.,s,110
+679,XJ/Sover/Daim'82-97,s,110
+3321,XJ6/XJ12 (1968-86),s,110
+738,XJS-XJSC convertibl,s,110
+3665,XK/XKR       (X150),s,110
+2874,XK8/XKR      (X100),s,110
+3473,XK8/XKR      (X105),s,110
+3568,Abaca,s,422
+3345,Albizia,s,422
+3890,Aloes,s,422
+3075,Titane,s,422
+4305,Xheos,s,422
+514,Cherokee,n,144
+3164,Cherokee 2ª serie,s,144
+3840,Cherokee 3ª serie,s,144
+4257,Cherokee 4ªs. 14-18,s,144
+4582,Cherokee 4ªs. 18-21,s,144
+3668,Commander,n,144
+3726,Compass 1ª serie,s,144
+4491,Compass 2ª serie,s,144
+4756,Gladiator,s,144
+2198,Gr.Cherokee 1ª-2ªs.,s,144
+3599,Gr.Cherokee 3ª s.,s,144
+4020,Gr.Cherokee 4ª s.,s,144
+4868,Grand Cherokee 5ªs.,s,144
+3796,Patriot,s,144
+4311,Renegade,s,144
+988,Wrangler 1ª-2ª s.,s,144
+3768,Wrangler 3ª serie,s,144
+4583,Wrangler 4ª serie,s,144
+3745,Troy,n,2716
+3744,Victory,n,2716
+3131,Carens 1ª serie,s,746
+3730,Carens 2ª serie,s,746
+4203,Carens 3ª serie,s,746
+3073,Carnival 1ª serie,s,746
+3681,Carnival 2ª serie,s,746
+3749,cee'd 1ª serie,s,746
+4128,cee'd 2ª serie,s,746
+4586,Ceed,s,746
+3535,Cerato,n,746
+2842,Clarus,n,746
+4705,e-Niro,s,746
+4884,e-Niro 2ª serie,s,746
+4706,e-Soul,s,746
+4789,EV6,s,746
+3104,Joice,n,746
+3303,K2500,n,746
+3442,Magentis 1ª serie,s,746
+3684,Magentis 2ª serie,s,746
+4883,Niro,s,746
+4449,Niro,s,746
+3417,Opirus,n,746
+4412,Optima,s,746
+3431,Picanto 1ªs.(04/08),s,746
+3828,Picanto 1ªs.(08/11),s,746
+4048,Picanto 2ªs.(11/17),s,746
+4496,Picanto 3ªs.(17-->),s,746
+3282,Pregio,n,746
+994,Pride,n,746
+4612,ProCeed,s,746
+3130,Rio 1ª serie,s,746
+3622,Rio 2ª serie,s,746
+4063,Rio 3ª serie,s,746
+4486,Rio 4ª serie,s,746
+2135,Sephia,s,746
+3016,Shuma,n,746
+3300,Sorento 1ª serie,s,746
+3939,Sorento 2ª serie,s,746
+4336,Sorento 3ª serie,s,746
+4736,Sorento 4ª serie,s,746
+3903,Soul 1ª serie,s,746
+4256,Soul 2ª serie,s,746
+2184,Sportage 1ª serie,s,746
+3534,Sportage 2ª serie,s,746
+3997,Sportage 3ª serie,s,746
+4398,Sportage 4ª serie,s,746
+4844,Sportage 5ª serie,s,746
+4549,Stinger,s,746
+4525,Stonic,s,746
+3953,Venga,s,746
+4649,XCeed,s,746
+522,Niva,s,433
+752,Samara,s,433
+2773,Serie 100,s,433
+1193,Serie 124/125,s,433
+4057,Aventador,s,135
+460,Countach,n,135
+1795,Diablo,s,135
+3387,Gallardo,s,135
+4255,Huracán,s,135
+461,Jalpa,n,135
+459,LM-002,n,135
+3231,Murciélago,s,135
+4543,Urus,s,135
+1639,Beta Berlina,s,34
+1638,Beta Montecarlo,s,34
+1637,BetaCoupéSpiderHPE,s,34
+1560,Dedra,n,34
+424,Delta,n,34
+3851,Delta (2008-2015),s,34
+2379,Delta 2ª serie,s,34
+493,Delta S4,s,34
+4124,Flavia (2012-2014),s,34
+1591,Gamma,n,34
+2628,k,n,34
+3081,Lybra,n,34
+3505,Musa,n,34
+3788,Musa 2ª serie,s,34
+3335,Phedra,n,34
+425,Prisma,n,34
+2229,Rallye 037,s,34
+426,Thema,n,34
+4079,Thema (2011),s,34
+3268,Thesis,n,34
+4081,Voyager,s,34
+2757,Y,n,34
+3408,Ypsilon,n,34
+3694,Ypsilon 2ª serie,s,34
+4044,Ypsilon 3ª serie,s,34
+2590,Z,n,34
+694,Defender,s,140
+4650,Defender (2019),s,140
+1633,Discovery 1ª serie,s,140
+3331,Discovery 2ª serie,s,140
+3510,Discovery 3ª serie,s,140
+3912,Discovery 4ª serie,s,140
+4463,Discovery 5ª serie,s,140
+4310,Discovery Sport,s,140
+2990,Freelander 1ª serie,s,140
+3718,Freelander 2ª serie,s,140
+133,Range Rover 1ª-2ªs.,s,140
+3288,Range Rover 3ªserie,s,140
+4161,Range Rover 4ªserie,s,140
+4828,Range Rover 5ªserie,s,140
+4485,Range Rover Velar,s,140
+4042,RR Evoque 1ª serie,s,140
+4597,RR Evoque 2ª serie,s,140
+3579,RR Sport 1ª serie,s,140
+4204,RR Sport 2ª serie,s,140
+4878,RR Sport 3ª serie,s,140
+4083,Puma,s,2333
+3248,Rodeo,n,2333
+3817,Rodeo 2ª serie,s,2333
+4018,CT,s,1962
+4602,ES (2018 --->),s,1962
+2460,GS 1ª serie,s,1962
+3597,GS 2ª serie,s,1962
+4166,GS 3ª serie,s,1962
+3072,IS 1ª serie,s,1962
+3641,IS 2ª serie,s,1962
+4206,IS 3ª serie,s,1962
+4499,LC,s,1962
+2402,LS 1° serie,s,1962
+4165,LS 2ª serie,s,1962
+4541,LS 3ª serie,s,1962
+4289,NX 1ª serie,s,1962
+4806,NX 2ª serie,s,1962
+4395,RC 1ª serie,s,1962
+3146,RX 1ª serie,s,1962
+3400,RX 2ª serie,s,1962
+3905,RX 3ª serie,s,1962
+4389,RX 4ª serie,s,1962
+2922,SC,n,1962
+4594,UX,s,1962
+4760,UX Full Electric,s,1962
+3005,Ambra,s,254
+3483,Be Two,s,254
+4252,JS50,s,254
+4831,JS60,s,254
+3153,Nova,s,254
+4636,Pulse3,s,254
+3715,X-Pro,s,254
+3533,X-Too,s,254
+3711,X-Too Max,s,254
+3710,X-Too2,s,254
+4777,3-Eleven,s,134
+1697,Elan,s,134
+2844,Elise,s,134
+280,Esprit,s,134
+3690,Europa S,s,134
+3927,Evora,s,134
+3159,Exige,s,134
+638,969,n,651
+4807,01,s,2796
+3451,Bolero,s,657
+651,CJ,s,657
+4353,Genio,s,657
+3550,Goa,s,657
+4561,KUV100,s,657
+4388,Quanto,s,657
+3955,Thar,s,657
+4148,XUV500,s,657
+4542,TGE,s,2759
+3111,GTC,n,495
+2911,LM,s,495
+3112,MantaRay,n,495
+2912,Mantis,n,495
+311,Mantula/Mantara,s,495
+4038,Bubble,s,2745
+3972,Freedom Cab,s,2745
+1249,800,s,848
+491,Biturbo e derivati,s,117
+3291,Coupé,s,117
+4208,Ghibli,s,117
+3936,GranCabrio,n,117
+3508,GranSport,n,117
+3679,GranSport Spyder,n,117
+3776,GranTurismo,n,117
+4864,Grecale,n,117
+3041,GT,s,117
+4416,Levante,s,117
+4813,MC20,s,117
+492,Quattroporte 3ª s.,s,117
+2588,Quattroporte 4ª s.,s,117
+3450,Quattroporte 5ª s.,s,117
+4195,Quattroporte 6ª s.,s,117
+1740,Shamal,n,117
+3235,Spyder,s,117
+4873,Deliver9,s,2793
+4788,eDeliver3,s,2793
+4791,eDeliver9,s,2793
+3328,Maybach,s,2359
+1169,121 1ª-2ª serie,s,145
+2833,121 3ª serie,s,145
+1028,323 F 2ª-3ª serie,s,145
+2464,323 F 4a serie/Lan.,s,145
+3080,323 F 5ª serie,s,145
+2319,626 3ª serie,s,145
+549,626 4ª serie,s,145
+2119,626 5ª serie,s,145
+2987,626 6ª serie,s,145
+3201,B-2500,n,145
+3737,BT-50,n,145
+4345,CX-3,s,145
+4647,CX-30,n,145
+4118,CX-5 1ª serie,s,145
+4503,CX-5 2ª serie,s,145
+4866,CX-60,s,145
+3772,CX-7,s,145
+3019,Demio,n,145
+3373,Mazda2 1ª serie,s,145
+3786,Mazda2 2ª serie,s,145
+4329,Mazda2 3ª serie,s,145
+4846,Mazda2 Hybrid,s,145
+3437,Mazda3 1ª serie,s,145
+3904,Mazda3 2ª serie,s,145
+4218,Mazda3 3ª serie,s,145
+4606,Mazda3 4ª serie,s,145
+3614,Mazda5 1ª serie,s,145
+4010,Mazda5 2ª serie,s,145
+3319,Mazda6 1ª serie,s,145
+3821,Mazda6 2ª serie,s,145
+4167,Mazda6 3ª serie,s,145
+1612,MPV 1ª serie,s,145
+3123,MPV 2ª serie,s,145
+2054,MX-3,s,145
+4698,MX-30,s,145
+1613,MX-5 1ª serie,s,145
+3639,MX-5 3ª serie,s,145
+4347,MX-5 4ª serie,s,145
+3485,MX-5 Collection'04,s,145
+3091,Premacy,n,145
+327,RX-7,s,145
+3393,RX-8,s,145
+3161,Tribute,n,145
+2417,Xedos 6,s,145
+2509,Xedos 9,s,145
+4402,Evantra,s,2776
+2401,Micron,s,1960
+4487,540C,s,2754
+4489,570GT,s,2754
+4488,570S,s,2754
+4662,600LT,s,2754
+4776,620R,n,2754
+4277,650S,n,2754
+4495,720S,s,2754
+4779,765LT,n,2754
+4857,Artura,s,2754
+4775,Elva,s,2754
+4676,GT,s,2754
+4104,MP4,n,2754
+4677,Senna,s,2754
+3649,400,s,1938
+3648,Elettrico,n,1938
+3703,943,s,2712
+3704,945,s,2712
+3705,963,s,2712
+3706,967,s,2712
+74,190,n,33
+4816,Citan,s,33
+4153,Citan        (W415),s,33
+4580,Classe A     (V177),s,33
+4134,Classe A     (W176),s,33
+4552,Classe A     (W177),s,33
+3513,Classe A   (W/C169),s,33
+2917,Classe A   (W/V168),s,33
+3586,Classe B     (T245),s,33
+4604,Classe B     (W247),s,33
+4065,Classe B (T246/242),s,33
+2395,Classe C   (W/S202),s,33
+3125,Classe C   (W/S203),s,33
+3755,Classe C   (W/S204),s,33
+4238,Classe C   (W/S205),s,33
+4781,Classe C   (W/S206),s,33
+4442,Classe C Cbr (A205),s,33
+4039,Classe C Cpé (C204),s,33
+4385,Classe C Cpé (C205),s,33
+3171,Classe C Sportcoupé,s,33
+2893,Classe CL    (C140),s,33
+3692,Classe CL   (CL216),s,33
+3069,Classe CL (C/CL215),s,33
+4172,Classe CLA (C/X117),s,33
+4623,Classe CLA Coupé,s,33
+4642,Classe CLA S.Brake,s,33
+3833,Classe CLC  (CL203),s,33
+2915,Classe CLK (C/A208),s,33
+3323,Classe CLK (C/A209),s,33
+3522,Classe CLS   (C219),s,33
+4000,Classe CLS (X/C218),s,33
+4546,Classe CLS Coupé,s,33
+2675,Classe E   (W/S210),s,33
+3309,Classe E   (W/S211),s,33
+3888,Classe E   (W/S212),s,33
+4401,Classe E   (W/S213),s,33
+3949,Classe E Cbr (A207),s,33
+4512,Classe E Cbr (A238),s,33
+3895,Classe E Cpé (C207),s,33
+4479,Classe E Cpé (C238),s,33
+683,Classe G     (G461),s,33
+2442,Classe G (G461/463),s,33
+3671,Classe GL    (X164),s,33
+4141,Classe GL    (X166),s,33
+4683,Classe GLA   (H247),s,33
+4232,Classe GLA   (X156),s,33
+4654,Classe GLB   (X247),s,33
+4362,Classe GLC   (X253),s,33
+4441,Classe GLC Cpé C253,s,33
+4598,Classe GLE   (V167),s,33
+4346,Classe GLE   (W166),s,33
+4681,Classe GLE Cpé C167,s,33
+4339,Classe GLE Cpé C292,s,33
+3859,Classe GLK   (X204),s,33
+4392,Classe GLS   (X166),s,33
+4643,Classe GLS   (X167),s,33
+2966,Classe M     (W163),s,33
+3578,Classe M     (W164),s,33
+4056,Classe M     (W166),s,33
+3628,Classe R    (BR251),s,33
+3035,Classe S   (W/V220),s,33
+3615,Classe S   (W/V221),s,33
+4207,Classe S   (W/V222),s,33
+4738,Classe S   (W/V223),s,33
+4397,Classe S Cbr (A217),s,33
+4274,Classe S Cpé (C217),s,33
+2429,Classe SL    (R129),s,33
+3232,Classe SL    (R230),s,33
+4095,Classe SL    (R231),s,33
+4403,Classe SLC   (R172),s,33
+2845,Classe SLK   (R170),s,33
+3469,Classe SLK   (R171),s,33
+4027,Classe SLK   (R172),s,33
+4880,Classe T (2022-->),s,33
+4250,Classe V     (W447),s,33
+2886,Classe V     (W638),s,33
+4522,Classe X    (BR470),s,33
+4765,EQA          (H243),s,33
+4840,EQB          (X243),s,33
+4630,EQC          (N293),s,33
+4867,EQE          (V295),s,33
+4811,EQS          (V297),s,33
+4720,EQV,s,33
+4718,eSprinter,s,33
+4661,eVito        (W447),s,33
+4319,GT         (C/R190),s,33
+4573,GT Coupé 4   (X290),s,33
+4333,Marco Polo   (W447),s,33
+4331,Maybach S    (X222),s,33
+4794,Maybach S    (Z223),s,33
+3297,Serie 200-280(W123),s,33
+682,Serie 200-320(*124),s,33
+684,Serie 200-320(C124),s,33
+2409,Serie E      (*124),s,33
+685,Serie S      (W126),s,33
+2063,Serie S      (W140),s,33
+2421,Serie S  (W/V/C140),s,33
+686,Serie SEC    (C126),s,33
+2188,Serie SEC    (C140),s,33
+2321,Serie SL     (R107),s,33
+687,Serie SL     (R129),s,33
+4870,SL           (R232),s,33
+3453,SLR          (C199),s,33
+3942,SLS      (C/R/N197),s,33
+3324,Sprinter 1ªs.(W903),s,33
+3275,Sprinter 2ªs.(W903),s,33
+3678,Sprinter 3ªs.(W906),s,33
+3919,Sprinter 4ªs.(W906),s,33
+4551,Sprinter 5ªs.(W907),s,33
+3322,T0,s,33
+3296,T1,s,33
+3292,Vaneo        (W414),s,33
+3411,Viano 1ªs.   (W639),s,33
+3987,Viano 2ªs.   (W639),s,33
+3266,Vito 1ªs.    (W638),s,33
+3413,Vito 2ªs.    (W639),s,33
+3988,Vito 3ªs.    (W639),s,33
+4430,Vito 4ªs.    (W447),s,33
+3722,Pocket,s,2713
+3723,Safari,s,2713
+3724,Sport,s,2713
+3725,Top,s,2713
+4784,EHS,n,1945
+4839,Marvel R,s,1945
+4877,MG5,s,1945
+2665,MGF,n,1945
+3299,TF,n,1945
+3261,ZR,n,1945
+3262,ZS (2001-2005),s,1945
+4838,ZS (2021-->),s,1945
+4783,ZS EV,n,1945
+3260,ZT,n,1945
+4197,Mia,n,2767
+2566,Porter elettr.,n,926
+2074,Rascal,n,926
+3540,Ydea,n,926
+4253,Dué,s,766
+4697,Dué 3ª serie,s,766
+4469,Dué V3,s,766
+1990,Ecology/Lyra,s,766
+4272,F8C,s,766
+4251,M8,s,766
+3794,MC,s,766
+3455,MC1,s,766
+3625,MC2,s,766
+4380,MGO 3,s,766
+4470,MGO 4,s,766
+4696,MGO 6,s,766
+3795,Sherpa,s,766
+3094,Virgo,s,766
+1586,Scimitar,n,598
+4693,Ferox,s,2781
+4829,Ferox-T,s,2781
+4691,Hero,s,2781
+4576,JI,s,2781
+4577,JII,s,2781
+4578,JIII,s,2781
+4692,Magnum,s,2781
+4579,RAM 1500 RX,s,2781
+4309,Minauto,s,2773
+4230,Mini          (F56),s,2222
+3698,Mini          (R56),s,2222
+2897,Mini 1ª serie,s,2222
+3197,Mini 2ª serie,s,2222
+4285,Mini 5 porte  (F55),s,2222
+4386,Mini Cabrio   (F57),s,2222
+4200,Mini Cabrio   (R52),s,2222
+4201,Mini Cabrio   (R57),s,2222
+4363,Mini Clubman  (F54),s,2222
+4202,Mini Clubman  (R55),s,2222
+4458,Mini Countryman F60,s,2222
+3979,Mini Countryman R60,s,2222
+4055,Mini Coupé    (R58),s,2222
+4655,Mini Full Electric,s,2222
+4149,Mini Paceman  (R61),s,2222
+4084,Mini Roadster (R59),s,2222
+2026,3000 GT,s,148
+3971,ASX,s,148
+2661,Carisma,n,148
+574,Colt 2-3-4ª s. 3p.,s,148
+2120,Colt 5 porte1980/86,s,148
+2116,Colt 5ª serie,s,148
+2826,Colt 6ª serie,s,148
+3487,Colt 7ª serie,s,148
+3889,Colt 8ª serie,s,148
+1629,Eclipse 1ª serie,s,148
+2827,Eclipse 2ª serie,s,148
+4538,Eclipse Cross,s,148
+3623,Grandis,n,148
+4023,i-MiEV,s,148
+2346,L200,s,148
+3545,L200 (2004-2006),s,148
+3655,L200 (2006-2015),s,148
+4384,L200 (2015-2019),s,148
+4644,L200 (2019-->),s,148
+4328,L200 2B Free,s,148
+1535,Lancer 3ª serie 5p.,s,148
+2118,Lancer 4ª serie,s,148
+3428,Lancer 5ª serie,s,148
+3882,Lancer 6ª serie,s,148
+3330,Lancer EVO,s,148
+3855,Lancer Evolution,s,148
+3396,Outlander 1ª serie,s,148
+3752,Outlander 2ª(07-10),s,148
+3962,Outlander 2ª(10-12),s,148
+4160,Outlander 3ª serie,s,148
+576,Pajero ('82-'00),s,148
+3117,Pajero (2000-2007),s,148
+3734,Pajero (2006-2009),s,148
+3085,Pajero Pinin,s,148
+2879,Pajero Sport,s,148
+2642,Space Gear,s,148
+2052,Space Runner 1ª s.,s,148
+3023,Space Runner 2ª s.,s,148
+3039,Space Star,n,148
+4199,Space Star 2ª serie,s,148
+4690,Space Star 3ª serie,s,148
+321,Space Wagon (88-99),s,148
+3050,Space Wagon (98-01),s,148
+3965,Canter (3ª serie),s,2743
+4129,Canter (4ª serie),s,2743
+3592,Canter (1ª serie),s,2708
+3594,Canter (2ª serie),s,2708
+2581,Moke,n,2092
+744,Panda,n,109
+745,Uno,n,109
+1847,Morgan,s,136
+3305,VEM-EL,s,2352
+4624,Erelis,s,2785
+3238,M26,n,2324
+3403,M30 Fumo,n,2324
+4158,Mustang,s,2766
+4809,Mature,s,2794
+4790,Young,s,2794
+855,200 SX,s,149
+946,300 ZX,s,149
+2671,Almera 1ª s.,s,149
+3109,Almera 2ª s./Tino,s,149
+4872,Ariya,s,149
+3336,Atleon (1ª serie),s,149
+3284,Atleon (2ª serie),s,149
+3490,Atleon (3ª serie),s,149
+3719,Atleon 4ª serie,s,149
+1245,Bluebird 1983/90,s,149
+3329,Cabstar (1ª serie),s,149
+3280,Cabstar (2ª serie),s,149
+3481,Cabstar (3ª serie),s,149
+3948,Cube,s,149
+4287,e-NV200,s,149
+4284,e-NV200 Evalia,n,149
+3347,Eco-T,n,149
+4066,Evalia,s,149
+3829,GT-R,s,149
+3316,Interstar 1ª serie,s,149
+3494,Interstar 2ª serie,s,149
+3738,Interstar 3ª serie,s,149
+4836,Interstar 4ª serie,s,149
+3977,Juke 1ª serie,s,149
+4657,Juke 2ª serie,s,149
+3448,Kubistar,n,149
+3351,L-35,s,149
+4096,Leaf 1ª serie,s,149
+4529,Leaf 2ª serie,s,149
+2635,Maxima QX (3ª s.),s,149
+3121,Maxima QX 4ª s.,s,149
+865,Micra 1ª serie,s,149
+2181,Micra 2ª serie,s,149
+3370,Micra 3ª serie,s,149
+4005,Micra 4ª serie,s,149
+4473,Micra 5ª serie,s,149
+3500,Murano 1ª serie,s,149
+3868,Murano 2ª serie,s,149
+3607,Navara 1ª serie,s,149
+3961,Navara 2ª serie,s,149
+4399,Navara 3ª serie,s,149
+3658,Note (2006-2013),s,149
+4209,Note (2013-2017),s,149
+3852,NP300,s,149
+3721,NT400/Cabstar 4ªs.,s,149
+4243,NT500,s,149
+3932,NV200,s,149
+4679,NV250,s,149
+4465,NV300,n,149
+4086,NV400,s,149
+3569,Pathfinder,n,149
+3959,Pathfinder 2ª s.,s,149
+3515,Patrol (3ª serie),s,149
+3009,Patrol GR 2ª serie,s,149
+543,Patrol/Safari 1ª s.,s,149
+3348,Pick-up,n,149
+3273,Pick-up (2ª s.),s,149
+3906,Pixo,s,149
+3381,Primastar 1ª serie,s,149
+3785,Primastar 2ª serie,s,149
+4833,Primastar 3ª serie,s,149
+1916,Primera 1ª serie,s,149
+2885,Primera 2ª serie,s,149
+3083,Primera 2ª serie,s,149
+3267,Primera 3ª serie,s,149
+4298,Pulsar,n,149
+3714,Qashqai 1ª serie,s,149
+4236,Qashqai 2ª serie,s,149
+4767,Qashqai 3ª serie,s,149
+2098,Serena,n,149
+434,Sunny,s,149
+1153,Terrano I,s,149
+2390,Terrano II,s,149
+4854,Townstar,s,149
+3285,Trade,n,149
+1251,Vanette,n,149
+3278,Vanette (2ª s.),s,149
+3204,X-Trail 1ª serie,s,149
+3777,X-Trail 2ª serie,s,149
+4279,X-Trail 3ª serie,s,149
+3383,Z,s,149
+545,Patrol,n,95
+3459,M12,s,1117
+3499,M14,s,1117
+3512,M400,s,1117
+3699,M500,s,1117
+4090,Derby,n,2753
+3389,Truck Plus,s,2382
+3514,OZ120/35,s,2336
+3250,OZ35 1ª serie,s,2336
+3841,OZ35 2ª serie,s,2336
+1085,Club/650/11,s,113
+1523,Sheverò,n,901
+4170,Adam,s,20
+3096,Agila 1ª serie,s,20
+3789,Agila 2ª serie,s,20
+4102,Ampera,n,20
+3720,Antara,s,20
+525,Ascona,n,20
+2099,Astra,n,20
+3010,Astra 2ª serie,s,20
+3425,Astra 3ª serie,s,20
+3929,Astra 4ª serie,s,20
+4371,Astra 5ª serie,s,20
+4825,Astra 6ª serie,s,20
+1848,Calibra,n,20
+2324,Campo,n,20
+4194,Cascada,n,20
+3183,Combo (Corsa 2ª s.),s,20
+3257,Combo (Corsa 3ª s.),s,20
+3187,Combo (Kadett E),s,20
+4109,Combo 4ª serie,s,20
+4584,Combo 5ª serie,s,20
+4570,Combo Life,s,20
+4107,Combo Tour,n,20
+4821,Combo-e,s,20
+4795,Combo-e Life,s,20
+523,Corsa 1ª serie,s,20
+2380,Corsa 2ª serie,s,20
+3143,Corsa 3ª serie,s,20
+3693,Corsa 4ª serie,s,20
+4330,Corsa 5ª serie,s,20
+4639,Corsa 6ª serie,s,20
+4640,Corsa-e,s,20
+4504,Crossland,s,20
+2055,Frontera,n,20
+4511,Grandland,s,20
+3760,GT,s,20
+3881,Insignia,n,20
+4492,Insignia 2ª serie,s,20
+524,Kadett E,s,20
+4348,Karl,s,20
+566,Manta,n,20
+3386,Meriva 1ª serie,s,20
+3969,Meriva 2ª serie,s,20
+4157,Mokka 1ª serie,s,20
+4732,Mokka 2ª serie,s,20
+4734,Mokka-e,s,20
+3184,Movano 1ª serie,s,20
+3539,Movano 2ª serie,s,20
+3743,Movano 3ª serie,s,20
+3975,Movano 4ª serie,s,20
+4818,Movano 5ª serie,s,20
+4855,Movano-e,s,20
+526,Omega,n,20
+2476,Omega 2ª serie,s,20
+567,Senator/Monza,s,20
+3395,Signum,s,20
+2894,Sintra,n,20
+3169,Speedster,s,20
+2631,Tigra,n,20
+3511,Tigra TwinTop,s,20
+1519,Vectra 1ª serie,s,20
+2758,Vectra 2ª serie,s,20
+3310,Vectra 3ª serie,s,20
+3193,Vivaro 1ª serie,s,20
+3709,Vivaro 2ª serie,s,20
+4290,Vivaro 3ª serie,s,20
+4627,Vivaro 4ª serie,s,20
+4629,Vivaro Life,s,20
+4722,Vivaro-e,s,20
+4747,Vivaro-e Life,s,20
+3046,Zafira,n,20
+3602,Zafira 2ª serie,s,20
+4082,Zafira 3ª serie,s,20
+4628,Zafira Life,n,20
+4735,Zafira-e Life,n,20
+4808,e-30 (2021--->),s,2797
+842,Gorgona,n,717
+3503,Speedster II,n,772
+4332,Huayra,n,2288
+3082,Zonda,n,2288
+893,Kallista,n,243
+3507,1007,n,151
+128,104,n,151
+2103,106,n,151
+3570,107,n,151
+4269,108,n,151
+4190,2008,n,151
+4667,2008 2ª serie,s,151
+129,205,n,151
+3027,206,n,151
+3647,207,n,151
+4098,208,n,151
+4646,208 2ª serie,s,151
+3911,3008 1ª serie,s,151
+4443,3008 2ª serie,s,151
+475,305,n,151
+2377,306,n,151
+3170,307,n,151
+3780,308 1ª serie,s,151
+4211,308 2ª serie,s,151
+4803,308 3ª serie,s,151
+474,309,n,151
+3764,4007,n,151
+671,405,n,151
+2649,406,n,151
+3456,407 1ª serie,s,151
+3860,407 2ª serie,s,151
+3934,5008 1ª serie,s,151
+4474,5008 2ª serie,s,151
+476,505,n,151
+4006,508,n,151
+4555,508 2ª serie,s,151
+490,604,n,151
+1665,605,n,151
+3103,607,n,151
+2498,806,n,151
+3302,807,n,151
+3805,Bipper,s,151
+3205,Boxer (1ª serie),s,151
+3306,Boxer (2ª serie),s,151
+3700,Boxer (3ª serie),s,151
+4835,e-Boxer,s,151
+4725,e-Expert,s,151
+4827,e-Partner,s,151
+4798,e-Rifter,s,151
+4728,e-Traveller,s,151
+3191,Expert,n,151
+3462,Expert 2ª serie,s,151
+3759,Expert 3ª serie,s,151
+4433,Expert 4ª serie,s,151
+4014,iOn,s,151
+3816,Partner 2ª serie,s,151
+4581,Partner 3ª serie,s,151
+2904,Ranch,n,151
+3966,RCZ,s,151
+4566,Rifter,s,151
+4450,Traveller,s,151
+3561,AL500,s,941
+3463,M500,s,941
+3563,PK500,s,941
+3247,Porter 1ª/2ª serie,s,941
+3931,Porter 3ª serie,s,941
+4764,Porter NP6,s,941
+729,Firebird,n,137
+1754,Trans Sport,n,137
+4428,718,s,27
+499,901/911/912('63-88),s,27
+3380,911           (964),s,27
+4078,911           (991),s,27
+4608,911           (992),s,27
+2438,911           (993),s,27
+2991,911           (996),s,27
+3509,911           (997),s,27
+4131,918           (310),s,27
+498,924/944,s,27
+500,928,s,27
+1257,959,n,27
+2558,968,n,27
+4120,Boxster       (981),s,27
+2882,Boxster       (986),s,27
+3538,Boxster       (987),s,27
+3434,Carrera GT,s,27
+3375,Cayenne 1ªs.'03-'07,s,27
+3757,Cayenne 1ªs.'07-'10,s,27
+3960,Cayenne 2ªs.'10-'18,s,27
+4521,Cayenne 3ªs.'17-->,s,27
+4626,Cayenne Coupé,s,27
+3627,Cayman        (987),s,27
+4179,Cayman 2ª serie,s,27
+4242,Macan,n,27
+3900,Panamera,s,27
+4213,Panamera 2ª serie,s,27
+4648,Taycan,s,27
+2177,Boxer 90,n,240
+3127,Mangusta,n,2300
+407,Magnum,s,436
+100,11,n,62
+112,18,s,62
+1508,19,n,62
+2200,19 2ª serie,s,62
+332,21,n,62
+335,25,n,62
+462,4,n,62
+98,5,n,62
+99,9,n,62
+4539,Alaskan,n,62
+336,Alpine,n,62
+4770,Arkana,n,62
+3195,Avantime,n,62
+4186,Captur 1ª serie,s,62
+4665,Captur 2ª serie,s,62
+1956,Clio,n,62
+3008,Clio 2ª serie,s,62
+3609,Clio 3ª serie,s,62
+4144,Clio 4ª serie,s,62
+4634,Clio 5ª serie,s,62
+334,Espace 1ª/2ª serie,s,62
+2903,Espace 3ª serie,s,62
+3364,Espace 4ª serie,s,62
+4335,Espace 5ª serie,s,62
+1567,Express,n,62
+4786,Express 2ª serie,s,62
+4089,Fluence,s,62
+4143,Grand Kangoo,n,62
+4462,Grand Scénic,n,62
+4356,Kadjar,n,62
+2988,Kangoo 1ª serie,s,62
+3384,Kangoo 2ª serie,s,62
+3808,Kangoo 3ª serie,s,62
+4785,Kangoo 4ª serie,s,62
+3822,Koleos 1ª serie,s,62
+4508,Koleos 2ª serie,s,62
+2469,Laguna 1ª serie,s,62
+3148,Laguna 2ª s. 01-05,s,62
+3580,Laguna 2ª s. 05-07,s,62
+3790,Laguna 3ª serie,s,62
+3391,Master 2ª serie,s,62
+3445,Master 3ª serie,s,62
+3727,Master 4ª serie,s,62
+3970,Master 5ª serie,s,62
+3402,Master Prop.(03-04),s,62
+3501,Master Prop.(04-07),s,62
+3779,Master Prop.(07-10),s,62
+4729,Master ZE/E-Tech El,s,62
+3343,Mégane 2ª serie,s,62
+3875,Mégane 3ª serie,s,62
+4404,Mégane 4ª serie,s,62
+4851,Mégane E-Tech El.,s,62
+4490,Mégane Grand Coupé,s,62
+2779,Mégane/Scénic 1ª s.,s,62
+3521,Modus 1ª serie,s,62
+3814,Modus 2ª serie,s,62
+2182,Safrane,n,62
+2898,Safrane 2ª serie,s,62
+3390,Scénic 2ª serie,s,62
+3909,Scénic 3ª serie,s,62
+4447,Scénic 4ª serie,s,62
+2756,Spider,s,62
+4391,Talisman,n,62
+3220,Trafic,n,62
+3270,Trafic 2ª serie,s,62
+3695,Trafic 3ª serie,s,62
+4300,Trafic 4ª serie,s,62
+2327,Twingo 1ª serie,s,62
+3770,Twingo 2ª serie,s,62
+4312,Twingo 3ª serie,s,62
+4727,Twingo Electric,s,62
+3229,Vel Satis 1ª serie,s,62
+3585,Vel Satis 2ª serie,s,62
+3982,Wind,s,62
+4193,ZOE 1ª serie,s,62
+4658,ZOE 2ª serie,s,62
+4288,D,s,2392
+3418,Mascott 1ª serie,s,2392
+3496,Mascott 2ª serie,s,2392
+3810,Mascott 3ª serie,s,2392
+3426,Master 2ª serie,s,2392
+3441,Master 3ª s.(03-06),s,2392
+3793,Master 4ª s.(06-10),s,2392
+4047,Master 5ª s.(10-->),s,2392
+4856,Master Z.E./E-Tech,s,2392
+3778,Maxity,s,2392
+3225,Mascott,n,2316
+3223,Master 1ª serie,s,2316
+3230,Master 2ª serie,s,2316
+3224,Messenger,n,2316
+1653,Camargue,s,86
+3317,Corniche (1971-83),s,86
+496,Corniche II-III-IV,s,86
+3122,Corniche V,s,86
+4688,Cullinan,s,86
+4460,Dawn,s,86
+3963,Ghost,s,86
+3379,Phantom,s,86
+4701,Phantom (2020--->),s,86
+1240,Phantom VI,n,86
+3015,S.Seraph/PkWard 2ªs,s,86
+1650,Silver Shadow,s,86
+495,Silver Spirit/Spur,s,86
+1651,Silver Wraith,s,86
+4321,Wraith,s,86
+4064,C.14,s,2330
+3603,Ercolino,n,2330
+3998,Ercolino R9,s,2330
+3827,Ercolone,n,2330
+4354,F.14,s,2330
+3304,Forest 35.100,n,2330
+4419,Gringo,s,2330
+3245,Nova Star (00-08),s,2330
+3825,Nova Star (08-10),s,2330
+4858,NovaStar 735,s,2330
+4420,Varano R.32.13,s,2330
+4323,Cinquone,s,2774
+4568,FatFive,s,2774
+4322,Romeo,s,2774
+3105,25,n,154
+3114,45,n,154
+3064,75,n,154
+1682,Maestro,n,154
+1684,Mini,n,154
+1685,Montego,n,154
+1656,SD1,s,154
+2656,Serie 100 2ª serie,s,154
+1683,Serie 100/Metro,s,154
+688,Serie 200 1ª-2ª s.,s,154
+2825,Serie 200 3ª serie,s,154
+1544,Serie 400 1ª serie,s,154
+2674,Serie 400 2ª serie,s,154
+2394,Serie 600,s,154
+689,Serie 800,s,154
+3422,Streetwise,n,154
+3013,9-3,n,153
+3337,9-3 2ª serie,s,153
+2961,9-5,n,153
+3624,9-5 2ª serie,s,153
+3981,9-5 3ª serie,s,153
+3657,9-7X,s,153
+527,900,n,153
+2403,900 2ª serie,s,153
+528,9000,n,153
+3531,S7,n,2408
+3584,Pick Up,n,255
+3452,PS 10,n,255
+3716,PS 300/350,s,255
+3059,Agora,s,2266
+3060,Spacia,s,2266
+3255,SM/SMT,s,2341
+2750,Alhambra,n,53
+3994,Alhambra 2ª serie,s,53
+3476,Altea,s,53
+4520,Arona,s,53
+2910,Arosa,n,53
+4424,Ateca,s,53
+2463,Cordoba,n,53
+3363,Cordoba 2ª serie,s,53
+3894,Exeo,s,53
+486,Fura,n,53
+487,Ibiza 1ª serie,s,53
+2384,Ibiza 2ª serie,s,53
+3283,Ibiza 3ª serie,s,53
+3844,Ibiza 4ª serie,s,53
+4501,Ibiza 5ª serie,s,53
+3178,Inca (Ibiza II),s,53
+3098,Leon,n,53
+3606,Leon 2ª serie,s,53
+4163,Leon 3ª serie,s,53
+4704,Leon 4ª serie,s,53
+489,Malaga,n,53
+485,Marbella,n,53
+4123,Mii,s,53
+4672,Mii electric,s,53
+488,Ronda,n,53
+4600,Tarraco,s,53
+3176,Terra,n,53
+2062,Toledo,n,53
+3044,Toledo 2ª serie,s,53
+3542,Toledo 3ª serie,s,53
+4169,Toledo 4ª serie,s,53
+3493,Netta,s,2403
+3327,Fun Tech,s,2277
+3070,Ma-Goo,s,2277
+3560,SC,s,2277
+4793,Seres 3,s,2795
+3813,Ceo,s,2719
+4127,Citigo,n,94
+4666,Citigo-e iV,s,94
+4759,Enyaq iV,s,94
+3097,Fabia,n,94
+3769,Fabia 2ª serie,s,94
+4326,Fabia 3ª serie,s,94
+4804,Fabia 4ª serie,s,94
+1177,Favorit/Forman,s,94
+2645,Felicia,n,94
+4659,Kamiq,s,94
+4531,Karoq,s,94
+4471,Kodiaq,s,94
+3480,Octavia 2ª serie,s,94
+4187,Octavia 3ª serie,s,94
+4682,Octavia 4ª serie,s,94
+2883,Octavia/4&4,s,94
+3371,Pick-up,n,94
+4164,Rapid,n,94
+4222,Rapid Spaceback,n,94
+3656,Roomster,n,94
+4625,Scala,s,94
+690,Serie 100,s,94
+3243,Superb,n,94
+3858,Superb 2ª serie,s,94
+4355,Superb 3ª serie,s,94
+3917,Yeti,s,94
+3028,city coupé/cabrio,s,2259
+3467,forfour 1ª serie,s,2259
+4301,forfour 2ªs. (W453),s,2259
+3470,fortwo 1ª serie,s,2259
+3753,fortwo 2ª serie,s,2259
+4299,fortwo 3ªs.(C/A453),s,2259
+3377,roadster,s,2259
+4132,Actyon Sports,s,979
+3729,Actyon/Actyon Sport,s,979
+1951,Family,n,979
+1590,Korando 1ª serie,s,979
+2796,Korando 2ª serie,s,979
+4016,Korando 3ª serie,s,979
+4651,Korando 4ª serie,s,979
+3633,Kyron/New Kyron,s,979
+2431,Musso/MJ,s,979
+4535,Rexton (2017--->),s,979
+4564,Rexton Sports,s,979
+4180,Rexton W,n,979
+3314,Rexton/Rexton II,s,979
+3598,Rodius 1ª serie,s,979
+4234,Rodius 2ª serie,s,979
+4357,Tivoli,s,979
+4431,XLV,s,979
+3886,Allroad,s,2394
+3773,Girasole,s,2394
+3419,Open,s,2394
+3885,Street,s,2394
+3708,B9 Tribeca,s,155
+4136,BRZ,n,155
+530,E (Mini-van),s,155
+2949,Forester 1ª-2ª ser.,s,155
+3834,Forester 3ª serie,s,155
+4177,Forester 4ª serie,s,155
+4664,Forester 5ª serie,s,155
+2398,Impreza 1ª serie,s,155
+3157,Impreza 2ª serie,s,155
+3802,Impreza 3ª serie,s,155
+4536,Impreza 4ª serie,s,155
+529,Justy 1ª serie,s,155
+2839,Justy 2ª serie,s,155
+3427,Justy 3ª serie,s,155
+3801,Justy 4ª serie,s,155
+532,L (berl./SW)1984/92,s,155
+1042,L (berl/SW) 1981/84,s,155
+1594,Legacy 1ª serie,s,155
+2547,Legacy 2ª/3ª serie,s,155
+3443,Legacy 4ª serie,s,155
+3925,Legacy 5ª serie,s,155
+4382,Levorg,s,155
+1336,M80,s,155
+3163,Outback 1ª serie,s,155
+3444,Outback 2ª serie,s,155
+3926,Outback 3ª serie,s,155
+4341,Outback 4ª serie,s,155
+4772,Outback 5ª serie,s,155
+4892,Solterra,s,155
+2038,SVX,s,155
+4032,Trezia,s,155
+2333,Vivio,s,155
+4001,WRX STI 1ª serie,s,155
+4283,WRX STI 2ª serie,s,155
+965,XT,s,155
+4097,XV 1ª serie,s,155
+4545,XV 2ª serie,s,155
+4737,Across,s,156
+930,Alto,s,156
+3346,Alto (2002-2006),s,156
+3902,Alto (2009),s,156
+2660,Baleno,s,156
+4421,Baleno (2016),s,156
+933,Carry/Every,s,156
+4327,Celerio,s,156
+3024,Grand Vitara,n,156
+3621,Grand Vitara 2ª,s,156
+4472,Ignis (2016),s,156
+3144,Ignis 1ª serie,s,156
+3424,Ignis 2ª serie,s,156
+3040,Jimny 3ª serie,s,156
+4585,Jimny 4ª serie,s,156
+4189,Kizashi,s,156
+3192,Liana,n,156
+4221,S-Cross,s,156
+4842,S-Cross 2ª serie,s,156
+3049,Samurai,s,156
+1107,SJ400/Samurai,s,156
+3824,Splash,s,156
+4758,Swace,s,156
+695,Swift,s,156
+3581,Swift (2005-2010),s,156
+3996,Swift (2010-2017),s,156
+4498,Swift (2017--->),s,156
+3659,SX4,n,156
+4338,Vitara (2015),s,156
+1532,Vitara/Sidekick,s,156
+3000,Wagon R+,n,156
+1658,Horizon,n,397
+1657,Samba,n,397
+1525,Solara,n,397
+3149,Bingo,s,2269
+3061,C1DB,s,2269
+3062,C1DM,s,2269
+3295,Domino,s,2269
+3150,Hola,s,2269
+3506,King,s,2269
+3573,T2,s,2269
+3574,T3,s,2269
+3576,TD,s,2269
+3575,TH,s,2269
+4100,Aria,s,2130
+3129,Indica,s,2130
+3520,Indigo,n,2130
+3242,Pick Up,n,2130
+3051,Safari,n,2130
+2633,Sport,s,2130
+3804,Xenon,s,2130
+4308,EM1,s,2770
+4849,Minimax,s,2770
+4340,Zero,s,2770
+4850,Zero 4,s,2770
+4611,Model 3,s,2749
+4237,Model S,s,2749
+4436,Model X,s,2749
+4782,Model Y,s,2749
+4003,Roadster,s,2749
+2058,Axel Elettrica,s,1036
+2186,Ligier,s,1036
+1666,Marbella Elettrica,s,1036
+3168,Ferruccio,s,2293
+3092,Ginevra,s,2293
+3093,Helektra,s,2293
+3279,4 Runner/Hilux  2ª,s,103
+1438,4 Runner/Hilux 1ª,s,103
+3758,Auris,n,103
+4171,Auris 2ª serie,s,103
+2999,Avensis 1ª serie,s,103
+3374,Avensis 2ª serie,s,103
+3910,Avensis 3ª serie,s,103
+3590,Aygo 1ª serie,s,103
+4282,Aygo 2ª serie,s,103
+4859,Aygo X,s,103
+4454,C-HR,s,103
+830,Camry (1991),s,103
+2672,Camry/Vista 5ª sr.,s,103
+2178,Carina E,s,103
+863,Celica (1985-93),s,103
+2470,Celica 6ª serie,s,103
+3090,Celica 7ª serie,s,103
+823,Corolla (1988-1992),s,103
+2320,Corolla (1993-2002),s,103
+3281,Corolla (2001-2004),s,103
+3484,Corolla (2004-2009),s,103
+4599,Corolla (2018-->),s,103
+1222,Corolla SW/Tercel,s,103
+4622,GR Supra,s,103
+4879,GR86,s,103
+4137,GT86,s,103
+1554,Hiace 1ª serie,s,103
+3277,Hiace 2ª serie,s,103
+3746,Hiace 3ª serie,s,103
+4754,Highlander,s,103
+3644,Hilux 3ª serie,s,103
+4434,Hilux 4ª serie,s,103
+3883,iQ,s,103
+626,Land Cruiser,n,103
+3410,Land Cruiser 100,s,103
+3831,Land Cruiser V8,s,103
+3941,Land Cruiser150/155,s,103
+1543,Lexus LS,s,103
+4671,Mirai,s,103
+861,MR2,n,103
+3118,MR2 (99-06),s,103
+2053,Paseo,s,103
+2892,Picnic,s,103
+1843,Previa,s,103
+3189,Previa 2ª serie,s,103
+3141,Prius 1ª serie,s,103
+3471,Prius 2ª serie,s,103
+3915,Prius 3ª serie,s,103
+4407,Prius 4ª serie,s,103
+4506,Prius Plug-in,s,103
+4135,Prius+,s,103
+4267,Proace 1ª serie,s,103
+4438,Proace 2ª serie,s,103
+4669,Proace City,s,103
+4862,Proace City El.,s,103
+4861,Proace City Ver. El,s,103
+4680,Proace City Verso,s,103
+4773,Proace Electric,s,103
+4484,Proace Verso,s,103
+4774,Proace Verso El.,s,103
+2539,RAV4,n,103
+3133,RAV4 2ª serie,s,103
+3653,RAV4 3ª serie,s,103
+4182,RAV4 4ª serie,s,103
+4603,RAV4 5ª serie,s,103
+2407,Supra (1993-->),s,103
+862,Supra 1986-1993,s,103
+557,Tercel,n,103
+3908,Urban Cruiser,s,103
+3914,Verso,s,103
+4028,Verso-S,s,103
+3042,Yaris,n,103
+3642,Yaris 2ª serie,s,103
+4067,Yaris 3ª serie,s,103
+4687,Yaris 4ª serie,s,103
+4796,Yaris Cross,s,103
+2342,Chimaera/Cerb/Griff,s,225
+894,S,n,225
+3567,Sagaris,n,225
+3475,T350,n,225
+3474,Tamora,n,225
+3477,Tuscan,s,225
+539,469,n,224
+4030,Dakar,s,224
+4031,Pick up,s,224
+3613,Tigr,s,224
+385,Alter,n,222
+384,UMM 4x4,n,222
+3087,Jadim,s,2291
+3251,Metropoli,n,2291
+3357,P104,n,2291
+3358,P105,n,2291
+3344,P250,n,2291
+4114,Cargo,s,2755
+4110,Cover,s,2755
+4115,Double,s,2755
+4111,Multi,s,2755
+4112,Open,s,2755
+4116,Open-r,s,2755
+4113,People,s,2755
+1087,Venturi,s,507
+1182,Serie 24/31,s,216
+4022,Amarok,n,101
+4497,Arteon,s,101
+3038,Bora,n,101
+3341,Caddy 1ª serie,s,101
+3253,Caddy 2ª serie,s,101
+3432,Caddy 3ªs. Tour. 1ª,s,101
+3995,Caddy 3ªs. Tour. 2ª,s,101
+4358,Caddy 4ª serie,s,101
+4750,Caddy 5ª serie,s,101
+4378,California 6ª '15->,s,101
+4373,Caravelle 6ª '15->,s,101
+3263,Caravelle/Multivan,s,101
+4101,CC,s,101
+1520,Corrado,n,101
+3702,Crafter 1ªs.,s,101
+4481,Crafter 2ªs.,s,101
+4607,e-Crafter,s,101
+4314,e-Golf,s,101
+4281,e-up!,s,101
+3654,Eos,n,101
+3587,Fox,n,101
+760,Golf 1ª serie,s,101
+400,Golf 2ª serie,s,101
+2102,Golf 3ª serie,s,101
+2986,Golf 4ª serie,s,101
+3438,Golf 5ª serie,s,101
+3869,Golf 6ª serie,s,101
+4152,Golf 7ª serie,s,101
+4668,Golf 8ª serie,s,101
+3893,Golf Plus 2ª serie,s,101
+4278,Golf Sportsvan,s,101
+4656,Grand California,s,101
+4717,ID.3,s,101
+4733,ID.4,s,101
+4837,ID.5,s,101
+394,Jetta,n,101
+3617,Jetta 2ª serie,s,101
+4025,Jetta 3ª serie,s,101
+3264,LT,n,101
+3033,Lupo,n,101
+4059,Maggiolino,s,101
+1027,Maggiolino (1983),s,101
+3404,Multivan 5ª '03->,s,101
+3935,Multivan 5ª '09->,s,101
+4377,Multivan 6ª '15->,s,101
+4841,Multivan 7ª '21->,s,101
+3045,New Beetle,n,101
+396,Passat 1ª/2ª/3ª/4ª,s,101
+2881,Passat 5ª serie,s,101
+3572,Passat 6ª serie,s,101
+4004,Passat 7ª serie,s,101
+4292,Passat 8ª serie,s,101
+3342,Phaeton,n,101
+389,Polo 1ª-2ª/Derby,s,101
+2630,Polo 3ª serie,s,101
+3259,Polo 4ª serie,s,101
+3913,Polo 5ª serie,s,101
+4517,Polo 6ª serie,s,101
+395,Scirocco,n,101
+3861,Scirocco 2ª serie,s,101
+2664,Sharan,n,101
+3983,Sharan 2ª serie,s,101
+4610,T-Cross,s,101
+4524,T-Roc,s,101
+4820,Taigo,s,101
+3298,Taro,n,101
+3799,Tiguan 1ª serie,s,101
+4408,Tiguan 2ª serie,s,101
+4516,Tiguan Allspace,s,101
+3368,Touareg,n,101
+3957,Touareg 2ª serie,s,101
+4554,Touareg 3ª serie,s,101
+3382,Touran,n,101
+3990,Touran 2ª serie,s,101
+4359,Touran 3ª serie,s,101
+3258,Transp. 4ª s.'90->,s,101
+3407,Transp. 5ª '03->,s,101
+3930,Transp. 5ª '09->,s,101
+4372,Transp. 6ª '15->,s,101
+4087,up!,s,101
+2158,Vento,n,101
+923,El Volkswagen/Sedan,s,173
+356,240,n,98
+3712,C30 (2006-2012),s,98
+4799,C40 (2021-->),s,98
+3643,C70 (2005-2013),s,98
+3447,S40 (2003-2012),s,98
+3140,S60 (2000-2009),s,98
+3976,S60 (2010-2018),s,98
+4613,S60 (2019-->),s,98
+4361,S60 CC (2015-2018),s,98
+3025,S80 (1998-2006),s,98
+3673,S80 (2006-2016),s,98
+4417,S90(2016-->),s,98
+353,Serie 300,s,98
+2783,Serie 40,s,98
+1509,Serie 400,s,98
+2900,Serie 70,s,98
+691,Serie 700,s,98
+2089,Serie 800,s,98
+2905,Serie 90,s,98
+1998,Serie 900,s,98
+4122,V40 (2012-2020),s,98
+4159,V40 CC (2012-2020),s,98
+3464,V50 (2003-2012),s,98
+3999,V60 (2010-2018),s,98
+4550,V60 (2018-->),s,98
+4343,V60 CC (2015-2018),s,98
+4591,V60 CC (2018-->),s,98
+3774,V70 (2007-2016),s,98
+3107,V70/XC70,s,98
+4413,V90 (2016-->),s,98
+4466,V90 CC (2016-->),s,98
+4526,XC40 (2017-->),s,98
+3843,XC60 (2008-2018),s,98
+4494,XC60 (2017-->),s,98
+3775,XC70 (2007-2017),s,98
+3349,XC90 (2003-2014),s,98
+4317,XC90 (2014-->),s,98
+4673,iEV7S,n,2788
+4757,Kitty,s,2788
+4755,Yoyo,n,2788
+4540,Zhindou ZD,n,2777
+1500,Yugo/Koral,s,892
+1199,Tavria,s,197
+4810,D2s,s,2798
+3254,101/R1,s,2339
+3465,R1 (2ª serie),s,2339
+3806,R1 (3ª serie),s,2339
+4763,R1 (4ª serie),s,2339
+4445,Rodeo,s,2339

@@ -1,0 +1,21 @@
+id,geographic_location_id,state_id,name
+1,1,1,Piemonte
+2,1,1,Valle d'Aosta/Vallée d'Aoste
+3,1,1,Lombardia
+4,2,1,Trentino-Alto Adige/Südtirol
+5,2,1,Veneto
+6,2,1,Friuli-Venezia Giulia
+7,1,1,Liguria
+8,2,1,Emilia-Romagna
+9,3,1,Toscana
+10,3,1,Umbria
+11,3,1,Marche
+12,3,1,Lazio
+13,4,1,Abruzzo
+14,4,1,Molise
+15,4,1,Campania
+16,4,1,Puglia
+17,4,1,Basilicata
+18,4,1,Calabria
+19,5,1,Sicilia
+20,5,1,Sardegna
