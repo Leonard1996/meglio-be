@@ -58,11 +58,11 @@ return [
 
     'asset_url' => env('ASSET_URL'),
 
-    'meglioquestio_rc_endpoint' => env('meglioquestio_RC_ENDPOINT'),
+    'meglioquestio_rc_endpoint' => env('MEGLIO_RC_ENDPOINT'),
    
-    'meglioquestio_rc_service_token' => env('meglioquestio_RC_SERVICE_TOKEN'),
+    'meglioquestio_rc_service_token' => env('MEGLIO_RC_SERVICE_TOKEN'),
     
-    'meglioquestio_rcp_baseurl' => env('meglioquestio_RCP_BASEURL', 'http://ec2-3-75-95-247.eu-central-1.compute.amazonaws.com'),
+    'meglioquestio_rcp_baseurl' => env('MEGLIO_RCP_BASEURL'),
     /*
     |--------------------------------------------------------------------------
     | Application Timezone

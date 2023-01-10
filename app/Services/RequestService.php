@@ -129,9 +129,9 @@ class RequestService
             $vehicle->vehicle_purchased_year = $data["vehicle_purchased_year"];
             $vehicle->theft_protection_code = $data["theft_protection_code"];
             $vehicle->tow_hook = $data["tow_hook"];
-            $vehicle->usage = $data["vehicle_usage"] ?? '';
-            $vehicle->parking = $data["parking"] ?? '';
-            $vehicle->other_power_supply = $data["other_power_supply"] ?? '';
+            $vehicle->usage = $data["vehicle_usage"] ? $data["vehicle_usage"] :  '';
+            $vehicle->parking = $data["vehicle_parking"] ? $data["vehicle_parking"] : '';
+            $vehicle->other_power_supply = $data["other_power_supply"] ? $data["other_power_supply"] : '';
             $vehicle->save();
             return $vehicle->id;
         } catch (\Exception $e) {
@@ -146,11 +146,11 @@ class RequestService
         try {
             $insuranceRequest = new InsuranceRequest();
             $insuranceRequest->source = $data['source'];
-            $insuranceRequest->user_id = auth()->id();
+            $insuranceRequest->user_id = 1;
             $insuranceRequest->customer_id = $customer_id;
             $insuranceRequest->km_in_one_year = isset($data['km_in_one_year']) ? $data['km_in_one_year'] : null;
-            $insuranceRequest->broker_company_id = auth()->id(); //to do recheck
-            $insuranceRequest->broker_agent_id = auth()->id(); //to do recheck
+            $insuranceRequest->broker_company_id = 1;
+            $insuranceRequest->broker_agent_id = 1;
             $insuranceRequest->request_token = Helpers::createNewRequestTooken();
             $insuranceRequest->ip = Helpers::getIp();
             $insuranceRequest->product_id = Helpers::getProductIdByProductName($data['product']);
@@ -209,8 +209,7 @@ class RequestService
             }
 
             if ($data['product'] == 'profession') {
-                // here
-                //    dd("HERE");
+
                 $professionData = $this->storeProfessionData($request->id, $data);
 
                 if ($professionData) {
@@ -252,7 +251,6 @@ class RequestService
     /**
      * Function send email for new qoutation
      * @return \Illuminate\Http\JsonResponse|int
-     * @author Zoi Murati
      */
     public function newQoutationNotificaion()
     {
@@ -286,7 +284,6 @@ class RequestService
     /**
      * Function send email for new qoutation
      * @return \Illuminate\Http\JsonResponse|int
-     * @author Zoi Murati
      */
 
     public function savedQoutationNotificaion()
@@ -321,7 +318,6 @@ class RequestService
     /**
      * Function send email for new qoutation
      * @return \Illuminate\Http\JsonResponse|int
-     * @author Zoi Murati
      */
     public function soldQoutationNotificaion()
     {

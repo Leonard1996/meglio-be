@@ -132,7 +132,6 @@ class QuoteController extends Controller
     /**
      * Function send email when new qoutaton
      * @return void
-     * @author Zoi Murati
      */
     public function new_qoutation()
     {
@@ -143,7 +142,6 @@ class QuoteController extends Controller
     /**
      * Function send email when saved qoutaton
      * @return void
-     * @author Zoi Murati
      */
     public function saved_qoutation()
     {
@@ -154,7 +152,6 @@ class QuoteController extends Controller
     /**
      * Function send email when sold qoutaton
      * @return void
-     * @author Zoi Murati
      */
     public function sold_qoutation()
     {
